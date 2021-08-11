@@ -1,1 +1,1 @@
-# coffeeshops-of-nashvill
+# coffeeshops-of-nashville
